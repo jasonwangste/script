@@ -1,1 +1,1 @@
-# script
+学习ai
